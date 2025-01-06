@@ -1,0 +1,69 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* Header Section */
+  header {
+    background: #007BFF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header p {
+    font-size: 1.2rem;
+  }
+  
+  /* About Me Section */
+  section {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-me h2, .skills h2, .contact h2 {
+    color: #007BFF;
+  }
+  
+  /* Skills List */
+  .skills ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  .skills ul li {
+    margin: 5px 0;
+  }
+  
+  /* Contact Section */
+  .contact a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+    background: #007BFF;
+    color: white;
+  }
+  
